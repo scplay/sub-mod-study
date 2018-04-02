@@ -1,0 +1,3 @@
+[submodule "this-is-sub"]
+	path = this-is-sub
+	url = git@github.com:scplay/this-is-sub.git
